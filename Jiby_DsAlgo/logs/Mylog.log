@@ -1,0 +1,1603 @@
+[INFO ] 2023-09-26 19:25:20.828 [main] loggerLoad - Loading Config file
+[INFO ] 2023-09-26 19:25:20.830 [main] loggerLoad - Testing on firefox
+[INFO ] 2023-09-26 19:25:23.953 [main] loggerLoad - Initializing driver for : firefox
+[INFO ] 2023-09-26 19:25:24.434 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:24.434 [main] loggerLoad - [@1, @tag] : Launch url
+[INFO ] 2023-09-26 19:25:24.434 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:24.437 [main] loggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-09-26 19:25:24.534 [main] loggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-09-26 19:25:24.949 [main] loggerLoad - Title of current page is:NumpyNinja
+[INFO ] 2023-09-26 19:25:24.952 [main] loggerLoad - User navigated to home page
+[INFO ] 2023-09-26 19:25:24.969 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:24.969 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 19:25:24.969 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:24.972 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 19:25:25.276 [main] loggerLoad - User clicks onArrays
+[INFO ] 2023-09-26 19:25:25.478 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 19:25:25.485 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:25.485 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 19:25:25.485 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:25.485 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 19:25:25.783 [main] loggerLoad - User clicks onLinkedlist
+[INFO ] 2023-09-26 19:25:25.965 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 19:25:25.972 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:25.972 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 19:25:25.972 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:25.973 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 19:25:26.261 [main] loggerLoad - User clicks onStack
+[INFO ] 2023-09-26 19:25:26.445 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 19:25:26.450 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:26.450 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 19:25:26.451 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:26.451 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 19:25:26.742 [main] loggerLoad - User clicks onQueue
+[INFO ] 2023-09-26 19:25:26.935 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 19:25:26.940 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:26.940 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 19:25:26.940 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:26.941 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 19:25:27.237 [main] loggerLoad - User clicks onTree
+[INFO ] 2023-09-26 19:25:27.420 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 19:25:27.426 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:27.426 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 19:25:27.426 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:27.426 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 19:25:27.722 [main] loggerLoad - User clicks onGraph
+[INFO ] 2023-09-26 19:25:27.937 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 19:25:27.944 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:27.944 [main] loggerLoad - [@2, @tag2] : User is on Home page and click on sign in
+[INFO ] 2023-09-26 19:25:27.944 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:27.945 [main] loggerLoad - User clicks on Sign in 
+[INFO ] 2023-09-26 19:25:28.047 [main] loggerLoad - User redirected to signin page 
+[INFO ] 2023-09-26 19:25:28.049 [main] loggerLoad - Title of current page is : Login
+[INFO ] 2023-09-26 19:25:28.061 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:28.061 [main] loggerLoad - [@2, @tag3] : User is on Home page and going to click on Register
+[INFO ] 2023-09-26 19:25:28.061 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:28.062 [main] loggerLoad - User clicks on register
+[INFO ] 2023-09-26 19:25:28.246 [main] loggerLoad - User redirected to Register page 
+[INFO ] 2023-09-26 19:25:28.249 [main] loggerLoad - Title of current page is : Registration
+[INFO ] 2023-09-26 19:25:28.256 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:28.257 [main] loggerLoad - [@3, @tag1] : The user is presented with error message for empty fields below Username textbox
+[INFO ] 2023-09-26 19:25:28.257 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:28.258 [main] loggerLoad - The user opens Register page
+[INFO ] 2023-09-26 19:25:28.582 [main] loggerLoad - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-09-26 19:25:28.613 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:28.613 [main] loggerLoad - [@3, @tag2] : The user is presented with error message for empty fields below Password textbox
+[INFO ] 2023-09-26 19:25:28.613 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:28.614 [main] loggerLoad - The user opens Register page
+[INFO ] 2023-09-26 19:25:28.701 [main] loggerLoad - The user enter valid username with other fields empty
+[INFO ] 2023-09-26 19:25:28.702 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 19:25:28.936 [main] loggerLoad - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-09-26 19:25:28.989 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:28.989 [main] loggerLoad - [@3, @tag3] : The user is presented with error message for empty fields below Password Confirmation textbox
+[INFO ] 2023-09-26 19:25:28.989 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:28.991 [main] loggerLoad - The user enter username and password with password confirmation field empty
+[INFO ] 2023-09-26 19:25:28.991 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 19:25:29.006 [main] loggerLoad - The user enter password as : testpassword
+[INFO ] 2023-09-26 19:25:29.233 [main] loggerLoad - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-09-26 19:25:29.249 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:29.249 [main] loggerLoad - [@3, @tag4] : The user is presented with error message for invalid username
+[INFO ] 2023-09-26 19:25:29.250 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:29.251 [main] loggerLoad -  The user enter invalid username
+[INFO ] 2023-09-26 19:25:29.251 [main] loggerLoad - The user enter username as : &**&**&
+[INFO ] 2023-09-26 19:25:29.259 [main] loggerLoad - The user enter password as : testpassword
+[INFO ] 2023-09-26 19:25:29.266 [main] loggerLoad - The user enter confirm password as : testpassword
+[INFO ] 2023-09-26 19:25:29.373 [main] loggerLoad - Error message is displayed as : password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-09-26 19:25:29.373 [main] loggerLoad - Invalid username - The user enters a username with characters other than Letters, digits and "@/./+/-/_"
+
+[INFO ] 2023-09-26 19:25:29.377 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:29.377 [main] loggerLoad - [@3, @tag5] : The user is presented with error message for password with characters less than eight.
+[INFO ] 2023-09-26 19:25:29.377 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:29.377 [main] loggerLoad -  The user enter password with less than 8 characters
+[INFO ] 2023-09-26 19:25:29.377 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 19:25:29.387 [main] loggerLoad - The user enter password as : a1b2c3d
+[INFO ] 2023-09-26 19:25:29.395 [main] loggerLoad - The user enter confirm password as : a1b2c3d
+[INFO ] 2023-09-26 19:25:29.491 [main] loggerLoad - Password should contain at least 8 characters
+[INFO ] 2023-09-26 19:25:29.495 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:29.495 [main] loggerLoad - [@3, @tag6] : The user is presented with error message for commonly used password
+[INFO ] 2023-09-26 19:25:29.495 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:29.495 [main] loggerLoad - The user entered commonly used password
+[INFO ] 2023-09-26 19:25:29.495 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 19:25:29.506 [main] loggerLoad - The user enter password as : Welcome1
+[INFO ] 2023-09-26 19:25:29.513 [main] loggerLoad - The user enter confirm password as : Welcome1
+[INFO ] 2023-09-26 19:25:29.608 [main] loggerLoad - Password can’t be commonly used password
+[INFO ] 2023-09-26 19:25:29.611 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:29.611 [main] loggerLoad - [@3, @tag7] : The user is succesfully able to register
+[INFO ] 2023-09-26 19:25:29.611 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:29.611 [main] loggerLoad -  The user enter valid credentials
+[INFO ] 2023-09-26 19:25:29.611 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 19:25:29.624 [main] loggerLoad - The user enter password as : RT56YU@78
+[INFO ] 2023-09-26 19:25:29.631 [main] loggerLoad - The user enter confirm password as : RT56YU@78
+[INFO ] 2023-09-26 19:25:29.731 [main] loggerLoad - New Account Created. You are logged in as <username>
+[INFO ] 2023-09-26 19:25:29.734 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:29.734 [main] loggerLoad - [@3, @tag8] : The user is presented with error message for username already exists
+[INFO ] 2023-09-26 19:25:29.734 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:29.735 [main] loggerLoad -  The user enter given credentials
+[INFO ] 2023-09-26 19:25:29.735 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 19:25:29.743 [main] loggerLoad - The user enter password as : RT56YUabc
+[INFO ] 2023-09-26 19:25:29.748 [main] loggerLoad - The user enter confirm password as : RT56YUabc
+[INFO ] 2023-09-26 19:25:29.838 [main] loggerLoad - User already exists
+[INFO ] 2023-09-26 19:25:29.840 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:29.840 [main] loggerLoad - [@4, @tag1] : Verifying Register link
+[INFO ] 2023-09-26 19:25:29.840 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:29.923 [main] loggerLoad - User clicks on Register link on signin page
+[INFO ] 2023-09-26 19:25:30.019 [main] loggerLoad - User redirected to Registraion page 
+[INFO ] 2023-09-26 19:25:30.022 [main] loggerLoad - Title of the Page : " Registration" 
+[INFO ] 2023-09-26 19:25:30.026 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:30.026 [main] loggerLoad - [@4, @tag2] : User on signin page and signin with invalid inputs
+[INFO ] 2023-09-26 19:25:30.026 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:30.116 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:30.117 [main] loggerLoad - [@4, @tag3] : The user is able to signin with registered credential
+[INFO ] 2023-09-26 19:25:30.117 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:30.188 [main] loggerLoad - User entered valid credentials
+[INFO ] 2023-09-26 19:25:30.477 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:30.478 [main] loggerLoad - [@5, @tag1] : The user is able to navigate to Data Structure introduction page
+[INFO ] 2023-09-26 19:25:30.478 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:30.481 [main] loggerLoad - he user is on the home page after logged in
+[INFO ] 2023-09-26 19:25:30.482 [main] loggerLoad - The user clicked getstarted btn in Datastructure
+[INFO ] 2023-09-26 19:25:30.489 [main] loggerLoad - click Get Started link on home page
+[INFO ] 2023-09-26 19:25:30.625 [main] loggerLoad - The user redirected to topics in DS
+[INFO ] 2023-09-26 19:25:30.628 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:30.628 [main] loggerLoad - [@5, @tag2] : The user is able to navigate to Time Complexity page
+[INFO ] 2023-09-26 19:25:30.628 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:30.764 [main] loggerLoad - The user redirected to Time Complexity page
+[INFO ] 2023-09-26 19:25:30.767 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:30.767 [main] loggerLoad - [@5, @tag3] : The user is able to navigate to a page having an tryEditor from Time Complexity page
+[INFO ] 2023-09-26 19:25:30.767 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:30.767 [main] loggerLoad - The user clicked tryHere button
+[INFO ] 2023-09-26 19:25:31.415 [main] loggerLoad - The user redirected to the assignment page
+[INFO ] 2023-09-26 19:25:31.418 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:31.418 [main] loggerLoad - [@5, @Tag4] : The user is able run code in tryEditor for Time Complexity page
+[INFO ] 2023-09-26 19:25:31.418 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:31.419 [main] loggerLoad - User enters valid python code in tryEditor from sheetname :Sheet2 and row number : 0
+[INFO ] 2023-09-26 19:25:31.419 [main] loggerLoad - User Enter the sheet details
+[INFO ] 2023-09-26 19:25:31.420 [main] loggerLoad - Excel File Path in SD : ./src/test/resources/ExcelData/Login.xlsx
+[INFO ] 2023-09-26 19:25:31.735 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 19:25:31.751 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.755 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:31.756 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.756 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.756 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 19:25:31.756 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.756 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 19:25:31.756 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 19:25:31.757 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 19:25:31.758 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 19:25:31.759 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.760 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.760 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 19:25:31.760 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.760 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:31.760 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.760 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.760 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 19:25:31.761 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.761 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 19:25:31.761 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.761 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.761 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 19:25:31.761 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:31.762 [main] loggerLoad - User enters the Python Code from the excel sheet as print 'Hello' and the result be null
+[INFO ] 2023-09-26 19:25:32.051 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 19:25:32.051 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.051 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 19:25:32.051 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.051 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 19:25:32.051 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.052 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.053 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.054 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 19:25:32.055 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.056 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.056 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 19:25:32.056 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.056 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.056 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.056 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 19:25:32.057 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.058 [main] loggerLoad - Expected result from Excel sheetname Sheet2 and 0 : Hello
+[INFO ] 2023-09-26 19:25:32.058 [main] loggerLoad - The user waiting for the python output
+[INFO ] 2023-09-26 19:25:32.296 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:32.296 [main] loggerLoad - [@5, @tag5] : User is able to navigate to tryeditor page and run invalid python code
+[INFO ] 2023-09-26 19:25:32.296 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 19:25:32.711 [main] loggerLoad - User enters invalid python code in tryEditor from sheetname :Sheet2 and row number : 1
+[INFO ] 2023-09-26 19:25:32.711 [main] loggerLoad - User Enter the sheet details
+[INFO ] 2023-09-26 19:25:32.711 [main] loggerLoad - Excel File Path in SD : ./src/test/resources/ExcelData/Login.xlsx
+[INFO ] 2023-09-26 19:25:32.732 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 19:25:32.733 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.733 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 19:25:32.733 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.733 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 19:25:32.733 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 19:25:32.734 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.735 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 19:25:32.735 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.735 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.735 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 19:25:32.735 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.735 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.735 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.736 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.736 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 19:25:32.736 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.737 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 19:25:32.737 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.737 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.737 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 19:25:32.737 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.737 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.737 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.738 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.738 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 19:25:32.738 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.738 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 19:25:32.738 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.739 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.739 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 19:25:32.739 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.739 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.739 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.740 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.740 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 19:25:32.740 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.740 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.741 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 19:25:32.742 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.742 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.742 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 19:25:32.742 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.742 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.742 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.743 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.743 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 19:25:32.743 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.743 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 19:25:32.743 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.743 [main] loggerLoad - User enters the Python Code from the excel sheet as print("Hello) and the result be null
+[INFO ] 2023-09-26 19:25:32.993 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 19:25:32.994 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.995 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 19:25:32.996 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 19:25:32.997 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 19:25:32.997 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 19:25:32.997 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 19:25:32.997 [main] loggerLoad - Expected result from Excel sheetname Sheet2 and 1 : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:33.055 [main] loggerLoad - The user will get an alert message
+[INFO ] 2023-09-26 19:25:33.055 [main] loggerLoad - User should be presented with error message
+[INFO ] 2023-09-26 19:25:33.055 [main] loggerLoad - Expected result : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:33.067 [main] loggerLoad - Actual Error Message : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 19:25:33.071 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 19:25:33.071 [main] loggerLoad - [@6, @tag1] : The user is able to navigate to Graph page
+[INFO ] 2023-09-26 19:25:33.071 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:14.323 [main] loggerLoad - Loading Config file
+[INFO ] 2023-09-26 20:53:14.326 [main] loggerLoad - Testing on firefox
+[INFO ] 2023-09-26 20:53:17.618 [main] loggerLoad - Initializing driver for : firefox
+[INFO ] 2023-09-26 20:53:18.009 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:18.009 [main] loggerLoad - [@1, @tag] : Launch url
+[INFO ] 2023-09-26 20:53:18.009 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:18.011 [main] loggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-09-26 20:53:18.106 [main] loggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-09-26 20:53:18.480 [main] loggerLoad - Title of current page is:NumpyNinja
+[INFO ] 2023-09-26 20:53:18.481 [main] loggerLoad - User navigated to home page
+[INFO ] 2023-09-26 20:53:18.497 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:18.497 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 20:53:18.497 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:18.500 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 20:53:18.801 [main] loggerLoad - User clicks onArrays
+[INFO ] 2023-09-26 20:53:18.992 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 20:53:18.997 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:18.997 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 20:53:18.998 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:18.998 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 20:53:19.287 [main] loggerLoad - User clicks onLinkedlist
+[INFO ] 2023-09-26 20:53:19.457 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 20:53:19.464 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:19.465 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 20:53:19.465 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:19.465 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 20:53:19.756 [main] loggerLoad - User clicks onStack
+[INFO ] 2023-09-26 20:53:19.943 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 20:53:19.949 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:19.949 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 20:53:19.949 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:19.950 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 20:53:20.242 [main] loggerLoad - User clicks onQueue
+[INFO ] 2023-09-26 20:53:20.448 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 20:53:20.456 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:20.456 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 20:53:20.456 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:20.457 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 20:53:20.748 [main] loggerLoad - User clicks onTree
+[INFO ] 2023-09-26 20:53:20.941 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 20:53:20.946 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:20.946 [main] loggerLoad - [@2, @tag1] : User is on Home page and click on dropdown without sign in
+[INFO ] 2023-09-26 20:53:20.946 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:20.947 [main] loggerLoad - User is on DSAlgo portal hoem page.
+[INFO ] 2023-09-26 20:53:21.239 [main] loggerLoad - User clicks onGraph
+[INFO ] 2023-09-26 20:53:21.412 [main] loggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-26 20:53:21.416 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:21.417 [main] loggerLoad - [@2, @tag2] : User is on Home page and click on sign in
+[INFO ] 2023-09-26 20:53:21.417 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:21.417 [main] loggerLoad - User clicks on Sign in 
+[INFO ] 2023-09-26 20:53:21.512 [main] loggerLoad - User redirected to signin page 
+[INFO ] 2023-09-26 20:53:21.515 [main] loggerLoad - Title of current page is : Login
+[INFO ] 2023-09-26 20:53:21.522 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:21.522 [main] loggerLoad - [@2, @tag3] : User is on Home page and going to click on Register
+[INFO ] 2023-09-26 20:53:21.522 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:21.522 [main] loggerLoad - User clicks on register
+[INFO ] 2023-09-26 20:53:21.687 [main] loggerLoad - User redirected to Register page 
+[INFO ] 2023-09-26 20:53:21.690 [main] loggerLoad - Title of current page is : Registration
+[INFO ] 2023-09-26 20:53:21.697 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:21.697 [main] loggerLoad - [@3, @tag1] : The user is presented with error message for empty fields below Username textbox
+[INFO ] 2023-09-26 20:53:21.697 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:21.699 [main] loggerLoad - The user opens Register page
+[INFO ] 2023-09-26 20:53:22.017 [main] loggerLoad - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-09-26 20:53:22.058 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:22.058 [main] loggerLoad - [@3, @tag2] : The user is presented with error message for empty fields below Password textbox
+[INFO ] 2023-09-26 20:53:22.058 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:22.058 [main] loggerLoad - The user opens Register page
+[INFO ] 2023-09-26 20:53:22.140 [main] loggerLoad - The user enter valid username with other fields empty
+[INFO ] 2023-09-26 20:53:22.141 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 20:53:22.389 [main] loggerLoad - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-09-26 20:53:22.450 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:22.450 [main] loggerLoad - [@3, @tag3] : The user is presented with error message for empty fields below Password Confirmation textbox
+[INFO ] 2023-09-26 20:53:22.450 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:22.451 [main] loggerLoad - The user enter username and password with password confirmation field empty
+[INFO ] 2023-09-26 20:53:22.451 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 20:53:22.469 [main] loggerLoad - The user enter password as : testpassword
+[INFO ] 2023-09-26 20:53:22.701 [main] loggerLoad - Error message is displayed Please fill out this field. an error below Password textbox
+[INFO ] 2023-09-26 20:53:22.721 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:22.721 [main] loggerLoad - [@3, @tag4] : The user is presented with error message for invalid username
+[INFO ] 2023-09-26 20:53:22.721 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:22.723 [main] loggerLoad -  The user enter invalid username
+[INFO ] 2023-09-26 20:53:22.723 [main] loggerLoad - The user enter username as : &**&**&
+[INFO ] 2023-09-26 20:53:22.732 [main] loggerLoad - The user enter password as : testpassword
+[INFO ] 2023-09-26 20:53:22.743 [main] loggerLoad - The user enter confirm password as : testpassword
+[INFO ] 2023-09-26 20:53:22.848 [main] loggerLoad - Error message is displayed as : password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-09-26 20:53:22.848 [main] loggerLoad - Invalid username - The user enters a username with characters other than Letters, digits and "@/./+/-/_"
+
+[INFO ] 2023-09-26 20:53:22.854 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:22.854 [main] loggerLoad - [@3, @tag5] : The user is presented with error message for password with characters less than eight.
+[INFO ] 2023-09-26 20:53:22.855 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:22.855 [main] loggerLoad -  The user enter password with less than 8 characters
+[INFO ] 2023-09-26 20:53:22.855 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 20:53:22.864 [main] loggerLoad - The user enter password as : a1b2c3d
+[INFO ] 2023-09-26 20:53:22.874 [main] loggerLoad - The user enter confirm password as : a1b2c3d
+[INFO ] 2023-09-26 20:53:22.977 [main] loggerLoad - Password should contain at least 8 characters
+[INFO ] 2023-09-26 20:53:22.980 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:22.981 [main] loggerLoad - [@3, @tag6] : The user is presented with error message for commonly used password
+[INFO ] 2023-09-26 20:53:22.981 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:22.981 [main] loggerLoad - The user entered commonly used password
+[INFO ] 2023-09-26 20:53:22.981 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 20:53:22.993 [main] loggerLoad - The user enter password as : Welcome1
+[INFO ] 2023-09-26 20:53:23.003 [main] loggerLoad - The user enter confirm password as : Welcome1
+[INFO ] 2023-09-26 20:53:23.097 [main] loggerLoad - Password can’t be commonly used password
+[INFO ] 2023-09-26 20:53:23.101 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:23.101 [main] loggerLoad - [@3, @tag7] : The user is succesfully able to register
+[INFO ] 2023-09-26 20:53:23.102 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:23.102 [main] loggerLoad -  The user enter valid credentials
+[INFO ] 2023-09-26 20:53:23.102 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 20:53:23.113 [main] loggerLoad - The user enter password as : RT56YU@78
+[INFO ] 2023-09-26 20:53:23.122 [main] loggerLoad - The user enter confirm password as : RT56YU@78
+[INFO ] 2023-09-26 20:53:23.225 [main] loggerLoad - New Account Created. You are logged in as <username>
+[INFO ] 2023-09-26 20:53:23.228 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:23.228 [main] loggerLoad - [@3, @tag8] : The user is presented with error message for username already exists
+[INFO ] 2023-09-26 20:53:23.228 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:23.228 [main] loggerLoad -  The user enter given credentials
+[INFO ] 2023-09-26 20:53:23.228 [main] loggerLoad - The user enter username as : Numpy@sdet84_1
+[INFO ] 2023-09-26 20:53:23.241 [main] loggerLoad - The user enter password as : RT56YUabc
+[INFO ] 2023-09-26 20:53:23.248 [main] loggerLoad - The user enter confirm password as : RT56YUabc
+[INFO ] 2023-09-26 20:53:23.341 [main] loggerLoad - User already exists
+[INFO ] 2023-09-26 20:53:23.343 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:23.343 [main] loggerLoad - [@4, @tag1] : Verifying Register link
+[INFO ] 2023-09-26 20:53:23.343 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:23.424 [main] loggerLoad - User clicks on Register link on signin page
+[INFO ] 2023-09-26 20:53:23.510 [main] loggerLoad - User redirected to Registraion page 
+[INFO ] 2023-09-26 20:53:23.512 [main] loggerLoad - Title of the Page : " Registration" 
+[INFO ] 2023-09-26 20:53:23.514 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:23.514 [main] loggerLoad - [@4, @tag2] : User on signin page and signin with invalid inputs
+[INFO ] 2023-09-26 20:53:23.514 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:23.600 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:23.600 [main] loggerLoad - [@4, @tag3] : The user is able to signin with registered credential
+[INFO ] 2023-09-26 20:53:23.600 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:23.638 [main] loggerLoad - User entered valid credentials
+[INFO ] 2023-09-26 20:53:23.937 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:23.938 [main] loggerLoad - [@5, @tag1] : The user is able to navigate to Data Structure introduction page
+[INFO ] 2023-09-26 20:53:23.938 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:23.941 [main] loggerLoad - he user is on the home page after logged in
+[INFO ] 2023-09-26 20:53:23.941 [main] loggerLoad - The user clicked getstarted btn in Datastructure
+[INFO ] 2023-09-26 20:53:23.946 [main] loggerLoad - click Get Started link on home page
+[INFO ] 2023-09-26 20:53:24.079 [main] loggerLoad - The user redirected to topics in DS
+[INFO ] 2023-09-26 20:53:24.081 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:24.081 [main] loggerLoad - [@5, @tag2] : The user is able to navigate to Time Complexity page
+[INFO ] 2023-09-26 20:53:24.081 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:24.215 [main] loggerLoad - The user redirected to Time Complexity page
+[INFO ] 2023-09-26 20:53:24.218 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:24.218 [main] loggerLoad - [@5, @tag3] : The user is able to navigate to a page having an tryEditor from Time Complexity page
+[INFO ] 2023-09-26 20:53:24.218 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:24.219 [main] loggerLoad - The user clicked tryHere button
+[INFO ] 2023-09-26 20:53:24.814 [main] loggerLoad - The user redirected to the assignment page
+[INFO ] 2023-09-26 20:53:24.818 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:24.818 [main] loggerLoad - [@5, @Tag4] : The user is able run code in tryEditor for Time Complexity page
+[INFO ] 2023-09-26 20:53:24.818 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:24.820 [main] loggerLoad - User enters valid python code in tryEditor from sheetname :Sheet2 and row number : 0
+[INFO ] 2023-09-26 20:53:24.820 [main] loggerLoad - User Enter the sheet details
+[INFO ] 2023-09-26 20:53:24.821 [main] loggerLoad - Excel File Path in SD : ./src/test/resources/ExcelData/Login.xlsx
+[INFO ] 2023-09-26 20:53:25.130 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 20:53:25.145 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.149 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 20:53:25.149 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.149 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 20:53:25.149 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.150 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.150 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 20:53:25.150 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.150 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.150 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.151 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.152 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 20:53:25.152 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.152 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 20:53:25.152 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.153 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.153 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 20:53:25.153 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.154 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.154 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.154 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.154 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 20:53:25.154 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.154 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 20:53:25.154 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 20:53:25.155 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.156 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.156 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 20:53:25.156 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.156 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.156 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.157 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 20:53:25.158 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.159 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.159 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.159 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.159 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 20:53:25.159 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.159 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 20:53:25.160 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.160 [main] loggerLoad - User enters the Python Code from the excel sheet as print 'Hello' and the result be null
+[INFO ] 2023-09-26 20:53:25.465 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 20:53:25.465 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.466 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.467 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.467 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 20:53:25.467 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.468 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 20:53:25.468 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.468 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.469 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 20:53:25.469 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.469 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.469 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.469 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.470 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 20:53:25.470 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.470 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 20:53:25.470 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 20:53:25.471 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 20:53:25.472 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.473 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:25.474 [main] loggerLoad - Expected result from Excel sheetname Sheet2 and 0 : Hello
+[INFO ] 2023-09-26 20:53:25.475 [main] loggerLoad - The user waiting for the python output
+[INFO ] 2023-09-26 20:53:25.732 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:25.732 [main] loggerLoad - [@5, @tag5] : User is able to navigate to tryeditor page and run invalid python code
+[INFO ] 2023-09-26 20:53:25.732 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:25.987 [main] loggerLoad - User enters invalid python code in tryEditor from sheetname :Sheet2 and row number : 1
+[INFO ] 2023-09-26 20:53:25.987 [main] loggerLoad - User Enter the sheet details
+[INFO ] 2023-09-26 20:53:25.987 [main] loggerLoad - Excel File Path in SD : ./src/test/resources/ExcelData/Login.xlsx
+[INFO ] 2023-09-26 20:53:26.010 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 20:53:26.010 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.010 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 20:53:26.010 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.010 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 20:53:26.010 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.011 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.012 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.013 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.014 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.015 [main] loggerLoad - User enters the Python Code from the excel sheet as print("Hello) and the result be null
+[INFO ] 2023-09-26 20:53:26.309 [main] loggerLoad - Read Sheet data
+[INFO ] 2023-09-26 20:53:26.309 [main] loggerLoad - Row : <xml-fragment r="2" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" t="s">
+    <main:v>14</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>15</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.309 [main] loggerLoad - Cell : print 'Hello'
+[INFO ] 2023-09-26 20:53:26.309 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.309 [main] loggerLoad - Cell : Hello
+[INFO ] 2023-09-26 20:53:26.309 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Row : <xml-fragment r="3" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>17</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Cell : print("Hello)
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Row : <xml-fragment r="4" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A4" t="s">
+    <main:v>18</main:v>
+  </main:c>
+  <main:c r="B4" t="s">
+    <main:v>19</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Cell : print("Valid Arrays in Python")
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Cell : Valid Arrays in Python
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Row : <xml-fragment r="5" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>22</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Cell : print("Invalid Arrays in Python)
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.310 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Row : <xml-fragment r="6" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A6" t="s">
+    <main:v>20</main:v>
+  </main:c>
+  <main:c r="B6" t="s">
+    <main:v>21</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Cell : print("Valid Arrays using List")
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Cell : Valid Arrays using List
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Row : <xml-fragment r="7" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A7" t="s">
+    <main:v>23</main:v>
+  </main:c>
+  <main:c r="B7" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Cell : print("Inalid input Arrays using List)
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Row : <xml-fragment r="8" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A8" t="s">
+    <main:v>24</main:v>
+  </main:c>
+  <main:c r="B8" t="s">
+    <main:v>25</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Cell : print("Valid input Basic operationsList")
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Cell : Valid input Basic operationsList
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Row : <xml-fragment r="9" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A9" t="s">
+    <main:v>26</main:v>
+  </main:c>
+  <main:c r="B9" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Cell : print("Inalid input Basic operationsList
+[INFO ] 2023-09-26 20:53:26.311 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.312 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.312 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.312 [main] loggerLoad - Row : <xml-fragment r="10" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A10" t="s">
+    <main:v>27</main:v>
+  </main:c>
+  <main:c r="B10" t="s">
+    <main:v>28</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.312 [main] loggerLoad - Cell : print("Valid input Applications of Array")
+[INFO ] 2023-09-26 20:53:26.312 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.313 [main] loggerLoad - Cell : Valid input Applications of Array
+[INFO ] 2023-09-26 20:53:26.313 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.313 [main] loggerLoad - Row : <xml-fragment r="11" spans="1:2" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A11" t="s">
+    <main:v>29</main:v>
+  </main:c>
+  <main:c r="B11" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : print("Invalid input Applications of Array
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Row : <xml-fragment r="12" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A12" s="2" t="s">
+    <main:v>30</main:v>
+  </main:c>
+  <main:c r="B12" t="s">
+    <main:v>31</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : print("Valid Search the Array")
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : Valid Search the Array
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Row : <xml-fragment r="13" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A13" s="2" t="s">
+    <main:v>32</main:v>
+  </main:c>
+  <main:c r="B13" t="s">
+    <main:v>16</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : print("Invalid Search the Array)
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Row : <xml-fragment r="14" spans="1:2" ht="15.75" x14ac:dyDescent="0.25" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A14" s="2" t="s">
+    <main:v>33</main:v>
+  </main:c>
+  <main:c r="B14" s="2" t="s">
+    <main:v>34</main:v>
+  </main:c>
+</xml-fragment>
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : print("Submitting Practice Questions Code")
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : pythoncode
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Cell : Submission Successful
+[INFO ] 2023-09-26 20:53:26.314 [main] loggerLoad - Column Header Name : result
+[INFO ] 2023-09-26 20:53:26.315 [main] loggerLoad - Expected result from Excel sheetname Sheet2 and 1 : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.380 [main] loggerLoad - The user will get an alert message
+[INFO ] 2023-09-26 20:53:26.380 [main] loggerLoad - User should be presented with error message
+[INFO ] 2023-09-26 20:53:26.380 [main] loggerLoad - Expected result : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.402 [main] loggerLoad - Actual Error Message : SyntaxError: bad input on line 1
+[INFO ] 2023-09-26 20:53:26.424 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:26.424 [main] loggerLoad - [@5, @tag6] : 
+[INFO ] 2023-09-26 20:53:26.424 [main] loggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-26 20:53:26.428 [main] loggerLoad - ===============================================================================================
+[INFO ] 2023-09-26 20:53:26.428 [main] loggerLoad - [@6, @tag1] : The user is able to navigate to Graph page
+[INFO ] 2023-09-26 20:53:26.428 [main] loggerLoad - -----------------------------------------------------------------------------------------------
